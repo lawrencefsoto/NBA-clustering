@@ -13,6 +13,15 @@ The metrics I used to find my clusters are based off of players stats Per 100 Po
 I used this metrics instead of ex:Per game stats because it would not skew towards players that have a longer career.
 
 
+If you are looking through the notebook. 
+
+Start with Scraping Folder- this is where I utilized Beautiful Soup
+
+Then Positional Clustering from PG-C - This is where I modeled and looked at different position clustering
+
+Finally Predictions Folder - This is where I looked at teams that make playoffs and see which cluster is more prominent with playoff teams.
+
+
 
 From my findings for each position and the difference within each cluster.
 
@@ -120,11 +129,5 @@ To no surprise Stretch 4's which has become the staple for the new NBA.
 Teams are all searching for good stretch 4's with good Defense.
 
 -----------------------------------
-
-If you are looking through the notebook. 
-
-Start with Scraping Folder
-Then Positional Clustering from PG-C
-Finally Predictions Folder.
 
 
