@@ -17,7 +17,7 @@ If you are looking through the notebook.
 
 Start with Scraping Folder- this is where I utilized Beautiful Soup
 
-Then Positional Clustering from PG-C - This is where I modeled and looked at different position clustering
+Then Positional Clustering from PG-C - This is where I modeled and looked at different position clustering I also provided a 3D model that shows how each group clusters.
 
 Finally Predictions Folder - This is where I looked at teams that make playoffs and see which cluster is more prominent with playoff teams.
 
